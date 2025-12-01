@@ -12,7 +12,7 @@ body {
   font-size: 1.6rem;
   line-height: 1.5;
   text-align: center;
-  color: #333;
+  color: #141a53;
   margin: 0;
 }
 
@@ -45,6 +45,11 @@ a:visited {
   padding: 15px;
   border-radius: 5px;
   background: #eee;
+}
+
+main {
+    display: block;
+    unicode-bidi: isolate;
 }
 
 @media (max-width: 460px) {
