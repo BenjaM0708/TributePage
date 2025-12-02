@@ -115,8 +115,8 @@ blockquote {
 }
 
 .imagen-circular {
-  width: 100px; /* Ancho igual a la altura para que sea cuadrada */
+  width: 100px; 
   height: 100px;
-  border-radius: 50%; /* Hace el borde circular */
+  border-radius: 50%;
 }
   
